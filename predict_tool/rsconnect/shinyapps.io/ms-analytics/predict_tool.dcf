@@ -1,0 +1,11 @@
+name: predict_tool
+title: predict_tool
+account: ms-analytics
+server: shinyapps.io
+appId: 152975
+bundleId: 690719
+url: https://sibanjan.shinyapps.io/predict_tool/
+when: 1485361715.16623
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: scripts.r
